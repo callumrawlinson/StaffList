@@ -16,7 +16,7 @@
  
 ### Version 1.0 Update:
 
-> 1- TODO: to add a config
+> 1- TODO: to add a config  
 > 2- Added basic setup
 
 ### FAQs:
