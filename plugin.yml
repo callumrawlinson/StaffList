@@ -1,0 +1,9 @@
+name: StaffList
+version: 1.0.0
+api: 3.0.0
+author: callumrawlinson
+main: callum\staff\Main
+
+commands:
+  stafflist:
+    description: Shows a list of staff.
