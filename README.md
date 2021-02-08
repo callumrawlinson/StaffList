@@ -1,4 +1,4 @@
-<img align="right" widht="auto" height="260" src="https://github.com/callumrawlinson/StaffList/blob/main/images/pluginlogo.png?raw=true" alt="Plugin Name">
+<img align="right" widht="auto" height="260" src="https://github.com/callumrawlinson/StaffList/blob/main/images/logo.png?raw=true" alt="Logo">
 
 # StaffList
 
